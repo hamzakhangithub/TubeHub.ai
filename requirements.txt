@@ -1,0 +1,7 @@
+langchain
+openai
+tiktoken
+deeplake
+openai-whisper 
+yt_dlp
+streamlit 
